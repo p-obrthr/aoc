@@ -1,4 +1,7 @@
-*
-!*.hs
-!.gitignore
-!*/
+input.txt
+Main
+Main.hi
+Main.o
+obj
+
+
